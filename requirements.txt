@@ -1,6 +1,6 @@
 ﻿cachetools==5.2.1
 python-telegram-bot==20.0
-Telethon==1.24.0
+Telethon==1.27.0
 pyrate-limiter
 sqlalchemy==1.4.46
 git+https://github.com/starry69/python-markdown2.git
